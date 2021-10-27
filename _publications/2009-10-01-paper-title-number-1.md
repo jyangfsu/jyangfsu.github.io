@@ -3,7 +3,7 @@ title: "Using one-way and co-clustering methods to reveal spatio-temporal patter
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2021-10
+date: 2021-10-01
 venue: 'Journal of Hydrology'
 paperurl: 'https://doi.org/10.1016/j.jhydrol.2021.127085'
 citation: 'Honghua Liu, Jing Yang*, Ming Ye*, Zhonghua Tang, Jie Dong, Tongju Xing. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 2021, 603: 127085.'
