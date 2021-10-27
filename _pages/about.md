@@ -15,7 +15,7 @@ My work and research
 Most of my previous work has focused on using statistical tools for understanding the spatial and temporal patterns of groundwater geochemistry and its controlling factors. I’ve also studied uncertainty analysis and sensitivity analysis in hydrological modeling. I study topics including numerical simulation of flow and solute transport in saturated and unsaturated porous and fractured media; uncertainty assessment of hydrologic parameters, conceptual models, and scenarios; risk analysis and decision-making under uncertainty;
 geostatistical methods for site characterization and contaminant remediation; and stochastic methods in groundwater hydrology. I also often focus on high performance computing using state-of-the-art algorithms and tools.
 
-Ph.D. Dissertation: Methods and applications of multi-model global sensitivity analysis for identifying controlling processes in subsurface hydrological modeling 
+Ph.D. Dissertation: [Methods and applications of multi-model global sensitivity analysis for identifying controlling processes in subsurface hydrological modeling](https://doi.org/10.1007/s12665-017-6759-6)
 
 My background and history
 ======
