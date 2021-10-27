@@ -1,7 +1,7 @@
 ---
 title: "A finite particle method (FPM) for Lagrangian simulation of conservative solute transport in heterogeneous porous media"
 collection: publications
-permalink: /publication/2020-10-01-A finite particle method (FPM) for Lagrangian simulation of conservative solute transport in heterogeneous porous media
+permalink: /publication/2021-10-01-A finite particle method (FPM) for Lagrangian simulation of conservative solute transport in heterogeneous porous media
 excerpt: ''
 date: 2021-10-01
 venue: 'Advances in Water Resources'
