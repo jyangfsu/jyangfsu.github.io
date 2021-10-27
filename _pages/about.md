@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Jing, a doctoral  student at the School of Environmental Studies, China University of Geosciences. My major is Hydraulic Engineering by training with a background in  Hydrogeology, but I have just enough expertise in computer science and data science to make trouble.  I study physical surface water-groundwater interactions and hope to branch out into the biogeochemical side of hydro(geo)logy. Interest in research, field work and, modeling in karstic and riparian systems.
+Hi! I’m Jing, a doctoral  student at the School of Environmental Studies, China University of Geosciences. My major is Hydraulic Engineering by training with a background in  Hydrogeology, but I have just enough expertise in computer science and data science to make trouble.  I study physical surface water-groundwater interactions and hope to branch out into the biogeochemical side of hydro(geo)logy. 
 
 My work and research
 ======
@@ -17,4 +17,4 @@ geostatistical methods for site characterization and contaminant remediation; an
 
 My background and history
 ======
-I received my B.A. from Yangtze University on 2013, and the entered China University of Geosciences to pursue my doctoral's degree. I joined the Department of Scientific Computing at Florida State University on February 2018 as a visiting scholar working with Dr. Ming Ye. For just under six months after my visiting, I returned to CUG, and then joined the Department of Earth, Ocean, and Atmospheric Science at Florida State University (FSU) on March 2019 as a visiting scholar again. 
+I received my B.A. from Yangtze University in 2013, and then entered into China University of Geosciences to pursue my doctoral degree. I joined the Department of Scientific Computing at Florida State University in February 2018 as a visiting scholar working with Dr. Ming Ye. For just under six months after my visiting, I returned to CUG, and then joined the Department of Earth, Ocean, and Atmospheric Science at Florida State University (FSU) in March 2019 as a visiting scholar again.
