@@ -1,7 +1,7 @@
 ---
 title: "Using one-way and co-clustering methods to reveal spatio-temporal patterns and controlling factors of groundwater geochemistry"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-10-01-Using one-way and co-clustering methods to reveal spatio-temporal patterns and controlling factors of groundwater geochemistry
 excerpt: ''
 date: 2021-10-01
 venue: 'Journal of Hydrology'
