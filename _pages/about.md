@@ -17,4 +17,4 @@ geostatistical methods for site characterization and contaminant remediation; an
 
 My background and history
 ======
-I received my B.A. from Yangtze University in 2013, and then entered into China University of Geosciences to pursue my doctoral degree. I joined the Department of Scientific Computing at Florida State University in February 2018 as a visiting scholar working with Dr. Ming Ye. For just under six months after my visiting, I returned to CUG, and then joined the Department of Earth, Ocean, and Atmospheric Science at Florida State University (FSU) in March 2019 as a visiting scholar again.
+I received my B.S. from Yangtze University in 2013, and then entered into China University of Geosciences to pursue my doctoral degree. I joined the Department of Scientific Computing at Florida State University in February 2018 as a Visiting Scholar working with Dr. Ming Ye. For just under six months after my visiting, I returned to CUG, and then joined the Department of Earth, Ocean, and Atmospheric Science at Florida State University in March 2019 as a Laboratory Assistant.
