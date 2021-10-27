@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2009/09 - 2013/06, B.S. in Hydrology and Water Resources Engineering, Yangtze University
+* 2013/09 - 2021/12, Ph.D in Hydraulic Engineering, China University of Geosciences (expected)
+* 2018/02 - 2018/08, Visiting scholar at Department of Scientific Computing in Florida State University
+* 2019/03 - 2020/11, Visiting Scholar and Laboratory Assistant at Department of Earth, Ocean, and Atmospheric Science in Florida State University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013/3 - 2021/12: Research Assistant
+  * China University of Geosciences
+  * Supervisor: Professor Zhonghua Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019/3 - 2021/11: Laboratory Assistant
+  * Florida State University
+  * Supervisor: Professor Ming Ye
 
 Publications
 ======
@@ -46,12 +36,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
