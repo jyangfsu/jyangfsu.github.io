@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-School of Environmental Studies, China University of Geosciences  No. 388 Lumo Road, Wuhan 430074, China  Email: jingyang@cug.edu.cn
+School of Environmental Studies, China University of Geosciences<br />No. 388 Lumo Road, Wuhan 430074, China<br />Email: jingyang@cug.edu.cn
