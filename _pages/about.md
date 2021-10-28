@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Jing, a doctoral  student in the [School of Environmental Studies](https://ses.cug.edu.cn/) at [China University of Geosciences](https://www.cug.edu.cn/). My major is Hydraulic Engineering by training with a background in  Hydrogeology, advised by Prof. [Zhonghua Tang](https://ses.cug.edu.cn/info/1124/1787.htm), but I have just enough expertise in computer science and data science to make trouble.  I study physical surface water-groundwater interactions and hope to branch out into the biogeochemical side of hydro(geo)logy. 
+Hi! I’m Jing, a doctoral  student in the [School of Environmental Studies](https://ses.cug.edu.cn/) at [China University of Geosciences](https://www.cug.edu.cn/). My major is Hydraulic Engineering by training with a background in  Hydrogeology, advised by [Prof. Zhonghua Tang](https://ses.cug.edu.cn/info/1124/1787.htm), but I have just enough expertise in computer science and data science to make trouble.  I study physical surface water-groundwater interactions and hope to branch out into the biogeochemical side of hydro(geo)logy. 
 
 My work and research
 ======
@@ -19,4 +19,4 @@ geostatistical methods for site characterization and contaminant remediation; an
 
 My background and history
 ======
-I received my Bachelor’s Degree in [Yangtze University](http://yangtzeu.edu.cn/) at June 2013, and then entered into China University of Geosciences to pursue my doctoral degree. I joined [The Department of Scientific Computing](https://www.sc.fsu.edu/) at [Florida State University](https://www.fsu.edu/) at February 2018 as a Visiting Scholar, working with Prof. [Ming Ye](https://people.sc.fsu.edu/~mye/). For just under six months after my visiting, I returned to CUG, and then joined [The Department of Earth, Ocean, and Atmospheric Science](https://www.eoas.fsu.edu/) at Florida State University in March 2019 as a Laboratory Assistant.
+I received my Bachelor’s Degree in [Yangtze University](http://yangtzeu.edu.cn/) at June 2013, and then entered into China University of Geosciences to pursue my doctoral degree. I joined [The Department of Scientific Computing](https://www.sc.fsu.edu/) at [Florida State University](https://www.fsu.edu/) at February 2018 as a Visiting Scholar, working with [Prof. Ming Ye](https://people.sc.fsu.edu/~mye/). For just under six months after my visiting, I returned to CUG, and then joined [The Department of Earth, Ocean, and Atmospheric Science](https://www.eoas.fsu.edu/) at Florida State University in March 2019 as a Laboratory Assistant.
