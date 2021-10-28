@@ -40,4 +40,4 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to AGU Membership.
