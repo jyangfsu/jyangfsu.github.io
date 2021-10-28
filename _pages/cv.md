@@ -22,7 +22,7 @@ Work experience
   * China University of Geosciences
   * Supervisor: Professor Zhonghua Tang
 
-* 2019/3 - 2021/11: Laboratory Assistant
+* 2019/3 - 2020/11: Laboratory Assistant
   * Florida State University
   * Supervisor: Professor Ming Ye
 
@@ -40,4 +40,4 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to AGU Membership.
+* Currently signed in to AGU membership.
