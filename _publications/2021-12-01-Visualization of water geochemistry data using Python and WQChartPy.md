@@ -1,7 +1,7 @@
 ---
 title: "Visualization of water geochemistry data using Python and WQChartPy"
 collection: publications
-permalink: /publication/2022-12-01-Visualization of water geochemistry data using Python and WQChartPy
+permalink: /publication/2021-12-01-Visualization of water geochemistry data using Python and WQChartPy
 excerpt: ''
 date: 2021-12-01
 venue: 'Groundwater'
