@@ -1,9 +1,9 @@
 ---
 title: "Visualization of water geochemistry data using Python and WQChartPy"
 collection: publications
-permalink: /publication/2022-02-01-Visualization of water geochemistry data using Python and WQChartPy
+permalink: /publication/2022-12-01-Visualization of water geochemistry data using Python and WQChartPy
 excerpt: ''
-date: 2021-11-01
+date: 2021-12-01
 venue: 'Groundwater'
 paperurl: Currently not available #'https://doi.org/10.1016/j.jhydrol.2021.127085'
 citation: '<b>Jing Yang</b>, Honghua Liu, Zhonghua Tang, Luk Peeters, Ming Ye*. &quot;Visualization of water geochemistry data using Python and WQChartPy.&quot; <i>Groundwater</i>. 2021 (Under review).'
