@@ -18,6 +18,9 @@ geostatistical methods for site characterization and contaminant remediation; an
 **Draft Ph.D. Dissertation:**
 <a href='https://jyangfsu.github.io/Thesis.pdf'>Methods and applications of multi-model global sensitivity analysis for identifying controlling processes in subsurface hydrological modeling</a>
 
+**Presentation Slides:**
+<a href='https://jyangfsu.github.io/Slides.pdf'>Presentation slides for Ph.D. dissertation</a>
+
 My background and history
 ======
 I received my Bachelor’s Degree in [Yangtze University](http://yangtzeu.edu.cn/) at June 2013, and then entered into China University of Geosciences to pursue my doctoral degree. I joined [The Department of Scientific Computing](https://www.sc.fsu.edu/) at [Florida State University](https://www.fsu.edu/) at February 2018 as a Visiting Scholar, working with [Prof. Ming Ye](https://people.sc.fsu.edu/~mye/). For just under six months after my visiting, I returned to CUG, and then joined [The Department of Earth, Ocean, and Atmospheric Science](https://www.eoas.fsu.edu/) at Florida State University at March 2019 as a Laboratory Assistant. I came back to CUG at November 2020 and expected to get my doctoral degree at December 2021.
