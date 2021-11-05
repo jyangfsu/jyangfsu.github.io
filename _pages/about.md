@@ -16,7 +16,7 @@ Most of my previous work has focused on using statistical tools to understand th
 geostatistical methods for site characterization and contaminant remediation; and stochastic methods in groundwater hydrology. I also often focus on high performance computing using state-of-the-art algorithms and tools.
 
 **Draft Ph.D. Dissertation:**
-<a href='https://jyangfsu.github.io/Thesis.pdf'>Methods and applications of multi-model global sensitivity analysis for identifying controlling processes in subsurface hydrological modeling</a>
+Methods and applications of multi-model global sensitivity analysis for identifying controlling processes in subsurface hydrological modeling
 
 **Presentation Slides:**
 <a href='https://jyangfsu.github.io/Slides.pdf'>Presentation slides for Ph.D. dissertation</a>
