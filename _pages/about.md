@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Jing. I just got my doctoral degree from the [School of Environmental Studies](https://ses.cug.edu.cn/) at [China University of Geosciences](https://www.cug.edu.cn/), advised by [Prof. Zhonghua Tang](https://ses.cug.edu.cn/info/1124/1787.htm). My major is Hydraulic Engineering by training with a background in  Hydrogeology, but I have just enough expertise in computer science and data science to make trouble.  I study physical surface water-groundwater interactions and hope to branch out into the biogeochemical side of hydro(geo)logy. 
+Hi! I’m Jing. I got my doctoral degree from the [School of Environmental Studies](https://ses.cug.edu.cn/) at [China University of Geosciences](https://www.cug.edu.cn/), advised by [Prof. Zhonghua Tang](https://ses.cug.edu.cn/info/1124/1787.htm). My major is Hydraulic Engineering by training with a background in  Hydrogeology, but I have just enough expertise in computer science and data science to make trouble.  I study physical surface water-groundwater interactions and hope to branch out into the biogeochemical side of hydro(geo)logy. 
 
 My work and research
 ======
