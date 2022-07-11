@@ -43,3 +43,4 @@ Talks
 Service and leadership
 ======
 * Currently signed in to AGU membership.
+* Reviewer for Journal of Hydrology, Groundwater, and Geofluids.
