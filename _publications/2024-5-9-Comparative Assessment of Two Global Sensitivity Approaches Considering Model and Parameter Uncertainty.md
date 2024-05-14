@@ -1,0 +1,14 @@
+---
+title: "Comparative assessment of two global sensitivity approaches considering model and parameter uncertainty"
+collection: publications
+permalink: /publication/2024-5-9-Comparative Assessment of Two Global Sensitivity Approaches Considering Model and Parameter Uncertainty.md
+excerpt: ''
+date: 2024-5-9
+venue: 'Water Resources Research'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR036096'
+citation: 'Heng Dai, Yujiao Liu, Alberto Guadagnini*, <b>Jing Yang</b>, Ming Ye. &quot;Comparative assessment of two global sensitivity approaches considering model and parameter uncertainty.&quot; <i>Water Resources Research</i>. 2024, 60(2): e2023WR036096. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR036096'
+---
+Global Sensitivity Analysis (GSA) is key to assisting appraisal of the behavior of hydrological systems through model diagnosis considering multiple sources of uncertainty. Uncertainty sources typically comprise incomplete knowledge in (a) conceptual and mathematical formulation of models and (b) parameters embedded in the models. In this context, there is the need for detailed investigations aimed at a robust quantification of the importance of model and parameter uncertainties in a rigorous multi-model context. This study aims at evaluating and comparing two modern multi-model GSA methodologies. These are the first GSA approaches embedding both model and parameter uncertainty sources and encompass the variance-based framework based on Sobol indices (as derived by Dai & Ye, 2015, https://doi.org/10.1016/j.jhydrol.2015.06.034) and the moment-based approach upon which the formulation of the multi-model AMA indices (as derived by Dell'Oca et al., 2020, https://doi.org/10.1029/2019wr025754) is based. We provide an assessment of various aspects of sensitivity upon considering a joint analysis of these two approaches in a multi-model context. Our work relies on well-established scenarios that comprise (a) a synthetic setting related to reactive transport across a groundwater system and (b) an experimentally-based study considering heavy metal sorption onto a soil. Our study documents that the joint use of these GSA approaches can provide different while complementary information to assess mutual consistency of approaches and to enrich the information content provided by GSA under model and parameter uncertainty. While being related to groundwater settings, our results can be considered as reference for future GSA studies coping with model and parameter uncertainty.
+[Download paper here]
+
+Recommended citation: Heng Dai, Yujiao Liu, Alberto Guadagnini*, <b>Jing Yang</b>, Ming Ye. &quot;Comparative assessment of two global sensitivity approaches considering model and parameter uncertainty.&quot; <i>Water Resources Research</i>. 2024, 60(2): e2023WR036096. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR036096
