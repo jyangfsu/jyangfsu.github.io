@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jing Yang"
 title_separator          : "-"
 name                     : &name "Jing Yang"
-description              : &description "Ph.D., China University of Geosciences"
+description              : &description "Associate Professor in Hydrogeology, Northwest A&F University"
 url                      : https://jyangfsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jyangfsu/jyangfsu.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jing Yang"
   avatar           : "jyang.jpg"
-  bio              : "Ph.D., China University of Geosciences"
-  location         : "Wuhan, China"
+  bio              : "Associate Professor in Hydrogeology, Northwest A&F University"
+  location         : "Yangling, China"
   employer         :
   pubmed           : 
   googlescholar    : 
