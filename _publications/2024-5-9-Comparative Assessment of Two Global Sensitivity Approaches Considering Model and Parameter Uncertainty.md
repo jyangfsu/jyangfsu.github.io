@@ -1,7 +1,7 @@
 ---
 title: "Comparative assessment of two global sensitivity approaches considering model and parameter uncertainty"
 collection: publications
-permalink: /publication/2024-5-9-Comparative Assessment of Two Global Sensitivity Approaches Considering Model and Parameter Uncertainty.md
+permalink: /publication/2024-5-9-Comparative Assessment of Two Global Sensitivity Approaches Considering Model and Parameter Uncertainty
 excerpt: ''
 date: 2024-5-9
 venue: 'Water Resources Research'
