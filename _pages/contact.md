@@ -1,13 +1,30 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Contact me"
+excerpt: "Get in touch with me"
 author_profile: true
 ---
-Contact information is below, including email and address.  This is to make it easy for people to find me when they search for things like “Jing Yang email” and get wrong pages on my site.  Here is where I reside.
 
-College of Water Resources and Architectural Engineering, Northwest A&F University, Yangling 712100, Shaanxi, China<br />Email: jyang@nwafu.edu.cn
+# 📬 Contact Me  
 
-School of Environmental Studies, China University of Geosciences, Wuhan 430074, China<br />Email: jingyang@cug.edu.cn
+Below you will find my current and past institutional affiliations and email addresses.  
+This page is intended to make it easy for people to find the **correct** contact information, since searches like *“Jing Yang email”* sometimes bring up incorrect pages.  
 
+---
 
+## 🏫 Current Position  
+**School of Land Engineering, Chang’an University**  
+Xi’an 710054, Shaanxi, China  
+**Email:** jing.yang@chd.edu.cn  
+
+---
+
+## 🌱 Previous / Additional Affiliations  
+
+**College of Water Resources and Architectural Engineering, Northwest A&F University**  
+Yangling 712100, Shaanxi, China  
+**Email:** jyang@nwafu.edu.cn  
+
+**School of Environmental Studies, China University of Geosciences**  
+Wuhan 430074, Hubei, China  
+**Email:** jingyang@cug.edu.cn  
