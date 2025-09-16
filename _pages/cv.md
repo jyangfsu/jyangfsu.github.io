@@ -16,6 +16,12 @@ Education
 
 Work experience
 ======
+* 2025/7 - Now: Associate Professor
+  * School of Land Engineering, Chang’an University
+  
+* 2022/6 - 2025/6: Associate Professor
+  * College of Water Resources and Architectural Engineering, Northwest A&F University
+
 * 2013/3 - 2021/12: Research Assistant
   * China University of Geosciences
   * Supervisor: Professor Zhonghua Tang
